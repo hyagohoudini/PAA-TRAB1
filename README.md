@@ -37,8 +37,9 @@ git clone https://github.com/hyagohoudini/PAA-TRAB1.git
 
 ## Perfil na plataforma:
   [Clique aqui](https://www.spoj.com/users/hyagogabriel/) para acessar a página de usuário
+ - [Link para o histórico de submissões](https://www.spoj.com/status/hyagogabriel/) (conferir aqui as resoluções dos problemas)
  - [Neste arquivo](./plaintext_version.txt) é possível encontrar uma pré-visualização local dos logs  
-
+ 
 ## Indicações da plataforma utilizada:
   - Compilador: g++
   - Sistema Operacional: Pop!_OS 22.04 LTS
